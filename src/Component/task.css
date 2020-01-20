@@ -1,0 +1,22 @@
+.task{
+ border:solid gray 1px;
+display:flex;
+align-items: center;
+justify-content: space-around;
+margin-left:400px;
+text-align: center;
+width:560px; 
+height:40px; 
+margin-top:0px;
+background-color: #2abb9c;
+}
+.fas {
+    
+    color:white;
+}
+.underlined{
+text-decoration: line-through;
+}
+.showed{
+    display:none;
+}
